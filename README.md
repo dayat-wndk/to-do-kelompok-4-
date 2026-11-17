@@ -70,12 +70,12 @@ Kelompok: **<nama kelompok>** · Kelas: **<kelas>**
 
 | ID | User Story | Status |
 |----|------------|--------|
-| US-1 | Sebagai pengguna, saya ingin melihat halaman berisi judul, kotak isian, dan tombol Tambah, agar bisa menulis tugas. | ☐ |
-| US-2 | Sebagai pengguna, saya ingin menambahkan tugas ke daftar dan menandainya selesai, agar bisa mencatat pekerjaan. | ☐ |
-| US-3 | Sebagai pengguna, saya ingin tampilan yang rapi dan tugas selesai tercoret, agar nyaman dibaca. | ☐ |
-| US-4 | Sebagai pengembang, saya ingin README yang menjelaskan aplikasi dan anggota tim, agar proyek mudah dipahami orang lain. | ☐ |
-| US-5 | Sebagai pengguna, saya ingin menghapus tugas dengan klik dua kali, agar daftar tidak penuh tugas lama. | ☐ |
-| US-6 | Sebagai pengguna, saya ingin melihat jumlah tugas di daftar, agar tahu berapa banyak pekerjaan saya. | ☐ |
+| US-1 | Sebagai pengguna, saya ingin melihat halaman berisi judul, kotak isian, dan tombol Tambah, agar bisa menulis tugas. | ✅ |
+| US-2 | Sebagai pengguna, saya ingin menambahkan tugas ke daftar dan menandainya selesai, agar bisa mencatat pekerjaan. | ✅ |
+| US-3 | Sebagai pengguna, saya ingin tampilan yang rapi dan tugas selesai tercoret, agar nyaman dibaca. | ✅ |
+| US-4 | Sebagai pengembang, saya ingin README yang menjelaskan aplikasi dan anggota tim, agar proyek mudah dipahami orang lain. | ✅ |
+| US-5 | Sebagai pengguna, saya ingin menghapus tugas dengan klik dua kali, agar daftar tidak penuh tugas lama. | ✅ |
+| US-6 | Sebagai pengguna, saya ingin melihat jumlah tugas di daftar, agar tahu berapa banyak pekerjaan saya. | ✅ |
 
 > Ganti ☐ dengan ✅ untuk user story yang dinyatakan **selesai** saat Sprint Review.
 
